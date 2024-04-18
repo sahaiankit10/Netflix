@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: netflix-app
-        image: sahaiankit10/netflix:latest
+        image: sahaiankit10/netflix:v2
         ports:
         - containerPort: 80
